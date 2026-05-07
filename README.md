@@ -242,37 +242,6 @@ Redux remains the single source of truth.
 
 ---
 
-# ♿ Accessibility
-
-This project includes accessibility best practices:
-
-- Semantic form labels
-- `aria-invalid`
-- `aria-describedby`
-- Keyboard navigation support
-- Focus management
-- Screen-reader-friendly inputs
-
----
-
-# 📱 Responsive Design
-
-Tested on:
-
-| Device | Width |
-|--------|------|
-| Mobile | 375px |
-| Desktop | 1280px |
-
-Responsive features:
-
-- Mobile-first layout
-- Collapsible columns
-- Adaptive card scaling
-- Stacked inputs on smaller screens
-
----
-
 # 🧪 Validation Features
 
 Includes:
