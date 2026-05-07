@@ -138,7 +138,7 @@ Make sure you have:
 ## Clone Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Vs-kishu/Payment-Gateway.git
 ```
 
 ---
